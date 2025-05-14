@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm GuilledGeo 👋</h1>
+<h1 align="center">Guillermo Durántez</h1>
 <h3 align="center">Creative Developer | Data Enthusiast | Tech Explorer</h3>
 
 <p align="center">
