@@ -56,7 +56,7 @@ I'm a curious and detail-oriented developer passionate about solving real-world 
 | ![HTML](https://img.shields.io/badge/HTML-Markup-E34F26?logo=html5&logoColor=white) | ![LightGBM](https://img.shields.io/badge/LightGBM-Gradient_Boosting-success?logo=lightgbm) | ![Rasterio](https://img.shields.io/badge/Rasterio-Raster_IO-blue?logo=python) |
 | ![CSS](https://img.shields.io/badge/CSS-Styling-1572B6?logo=css3&logoColor=white) | ![Prophet](https://img.shields.io/badge/Prophet-Time_Series-blueviolet?logo=meta) | ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-ESRI-blue?logo=esri) |
 
----
+
 
 | 📦 Cloud & Data Warehousing | 📈 Visualization & BI | 🌐 Backend & DevOps |
 |-----------------------------|------------------------|----------------------|
