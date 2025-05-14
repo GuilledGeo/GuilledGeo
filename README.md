@@ -52,9 +52,9 @@ I'm a curious and detail-oriented developer passionate about solving real-world 
 | ![R](https://img.shields.io/badge/R-Data_Analysis-blue?logo=r) | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikit-learn) | ![QGIS](https://img.shields.io/badge/QGIS-Open_Source_GIS-green?logo=qgis) |
 | ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-informational?logo=postgresql) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep_Learning-orange?logo=tensorflow) | ![GDAL](https://img.shields.io/badge/GDAL-Geospatial_Tools-darkgreen?logo=gdal) |
 | ![Bash](https://img.shields.io/badge/Bash-Scripting-informational?logo=gnubash) | ![Keras](https://img.shields.io/badge/Keras-Neural_Networks-red?logo=keras) | ![Leaflet](https://img.shields.io/badge/Leaflet-Maps-informational?logo=leaflet) |
-|                             | ![XGBoost](https://img.shields.io/badge/XGBoost-Gradient_Boosting-critical?logo=xgboost) | ![GeoPandas](https://img.shields.io/badge/GeoPandas-Geospatial_Analysis-blue?logo=geopandas) |
-|                             | ![LightGBM](https://img.shields.io/badge/LightGBM-Gradient_Boosting-success?logo=lightgbm) |                               |
-|                             | ![Prophet](https://img.shields.io/badge/Prophet-Time_Series-blueviolet?logo=meta) |                               |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-Scripting-F7DF1E?logo=javascript&logoColor=black) | ![XGBoost](https://img.shields.io/badge/XGBoost-Gradient_Boosting-critical?logo=xgboost) | ![GeoPandas](https://img.shields.io/badge/GeoPandas-Geospatial_Analysis-blue?logo=geopandas) |
+| ![HTML](https://img.shields.io/badge/HTML-Markup-E34F26?logo=html5&logoColor=white) | ![LightGBM](https://img.shields.io/badge/LightGBM-Gradient_Boosting-success?logo=lightgbm) | ![Rasterio](https://img.shields.io/badge/Rasterio-Raster_IO-blue?logo=python) |
+| ![CSS](https://img.shields.io/badge/CSS-Styling-1572B6?logo=css3&logoColor=white) | ![Prophet](https://img.shields.io/badge/Prophet-Time_Series-blueviolet?logo=meta) | ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-ESRI-blue?logo=esri) |
 
 ---
 
@@ -63,7 +63,7 @@ I'm a curious and detail-oriented developer passionate about solving real-world 
 | ![Snowflake](https://img.shields.io/badge/Snowflake-Cloud_Data_Warehouse-lightblue?logo=snowflake) | ![Power BI](https://img.shields.io/badge/Power%20BI-Business_Intelligence-yellow?logo=powerbi) | ![Django](https://img.shields.io/badge/Django-Framework-darkgreen?logo=django) |
 | ![BigQuery](https://img.shields.io/badge/BigQuery-Google_Cloud-blue?logo=googlecloud) | ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?logo=streamlit) | ![FastAPI](https://img.shields.io/badge/FastAPI-APIs-teal?logo=fastapi) |
 | ![GCP](https://img.shields.io/badge/GCP-Cloud_Platform-orange?logo=googlecloud) | ![Plotly](https://img.shields.io/badge/Plotly-Interactive_Plots-lightgrey?logo=plotly) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-blue?logo=githubactions) |
-| ![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker) |                                | ![Git](https://img.shields.io/badge/Git-Version_Control-orange?logo=git) |
+| ![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker) | ![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-Business_Analytics-green?logo=qlik) | ![Git](https://img.shields.io/badge/Git-Version_Control-orange?logo=git) |
 
 ---
 
