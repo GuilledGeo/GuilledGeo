@@ -35,7 +35,7 @@ I'm a curious and detail-oriented developer passionate about solving real-world 
 🗄️   PostgreSQL | MySQL | MongoDB
 📦   Docker | GitHub Actions | CI/CD
 
-
+---
 
 <h1 align="center">Hi, I'm GuilledGeo 👋</h1>
 <h3 align="center">Creative Developer | Data Enthusiast | Tech Explorer</h3>
