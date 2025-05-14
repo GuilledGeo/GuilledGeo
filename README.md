@@ -108,4 +108,3 @@ I'm a curious and detail-oriented developer passionate about solving real-world 
 
 - 📬 Email: [guillermodurantez@gmail.com](mailto:guillermodurantez@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/guillermodurantez](https://www.linkedin.com/in/guillermodurantez)  
-- 🌍 Portfolio: [guilledgeo.com](https://guilledgeo.com)
