@@ -43,46 +43,27 @@ I'm a curious and detail-oriented developer passionate about solving real-world 
 
 ---
 
+
 ## 🧰 Technologies & Tools
 
-### 🐍 Programación & Análisis  
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
-![R](https://img.shields.io/badge/R-Data_Analysis-blue?logo=r)  
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-informational?logo=postgresql)  
-![Bash](https://img.shields.io/badge/Bash-Scripting-informational?logo=gnubash)  
+| 🐍 Programming & Analysis | 📊 Data Science & ML | 🛰️ Geospatial & Remote Sensing |
+|---------------------------|----------------------|-------------------------------|
+| ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python) | ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-black?logo=pandas) | ![GEE](https://img.shields.io/badge/GEE-Remote_Sensing-green?logo=google) |
+| ![R](https://img.shields.io/badge/R-Data_Analysis-blue?logo=r) | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikit-learn) | ![QGIS](https://img.shields.io/badge/QGIS-Open_Source_GIS-green?logo=qgis) |
+| ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-informational?logo=postgresql) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep_Learning-orange?logo=tensorflow) | ![GDAL](https://img.shields.io/badge/GDAL-Geospatial_Tools-darkgreen?logo=gdal) |
+| ![Bash](https://img.shields.io/badge/Bash-Scripting-informational?logo=gnubash) | ![Keras](https://img.shields.io/badge/Keras-Neural_Networks-red?logo=keras) | ![Leaflet](https://img.shields.io/badge/Leaflet-Maps-informational?logo=leaflet) |
+|                             | ![XGBoost](https://img.shields.io/badge/XGBoost-Gradient_Boosting-critical?logo=xgboost) | ![GeoPandas](https://img.shields.io/badge/GeoPandas-Geospatial_Analysis-blue?logo=geopandas) |
+|                             | ![LightGBM](https://img.shields.io/badge/LightGBM-Gradient_Boosting-success?logo=lightgbm) |                               |
+|                             | ![Prophet](https://img.shields.io/badge/Prophet-Time_Series-blueviolet?logo=meta) |                               |
 
-### 📊 Ciencia de Datos & Machine Learning  
-![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-black?logo=pandas)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikit-learn)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep_Learning-orange?logo=tensorflow)  
-![Keras](https://img.shields.io/badge/Keras-Neural_Networks-red?logo=keras)  
-![XGBoost](https://img.shields.io/badge/XGBoost-Gradient_Boosting-critical?logo=xgboost)  
-![LightGBM](https://img.shields.io/badge/LightGBM-Gradient_Boosting-success?logo=lightgbm)  
-![Prophet](https://img.shields.io/badge/Prophet-Time_Series-blueviolet?logo=meta)  
+---
 
-### 🛰️ Geospatial & Remote Sensing  
-![Google Earth Engine](https://img.shields.io/badge/GEE-Remote_Sensing-green?logo=google)  
-![QGIS](https://img.shields.io/badge/QGIS-Open_Source_GIS-green?logo=qgis)  
-![GDAL](https://img.shields.io/badge/GDAL-Geospatial_Tools-darkgreen?logo=gdal)  
-![Leaflet](https://img.shields.io/badge/Leaflet-Maps-informational?logo=leaflet)  
-![GeoPandas](https://img.shields.io/badge/GeoPandas-Geospatial_Analysis-blue?logo=geopandas)  
-
-### 📦 Data Warehousing & Cloud  
-![Snowflake](https://img.shields.io/badge/Snowflake-Cloud_Data_Warehouse-lightblue?logo=snowflake)  
-![BigQuery](https://img.shields.io/badge/BigQuery-Google_Cloud-blue?logo=googlecloud)  
-![GCP](https://img.shields.io/badge/GCP-Cloud_Platform-orange?logo=googlecloud)  
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)  
-
-### 📈 Visualización & BI  
-![Power BI](https://img.shields.io/badge/Power%20BI-Business_Intelligence-yellow?logo=powerbi)  
-![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?logo=streamlit)  
-![Plotly](https://img.shields.io/badge/Plotly-Interactive_Plots-lightgrey?logo=plotly)  
-
-### 🌐 Backend & DevOps  
-![Django](https://img.shields.io/badge/Django-Framework-darkgreen?logo=django)  
-![FastAPI](https://img.shields.io/badge/FastAPI-APIs-teal?logo=fastapi)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-blue?logo=githubactions)  
-![Git](https://img.shields.io/badge/Git-Version_Control-orange?logo=git)  
+| 📦 Cloud & Data Warehousing | 📈 Visualization & BI | 🌐 Backend & DevOps |
+|-----------------------------|------------------------|----------------------|
+| ![Snowflake](https://img.shields.io/badge/Snowflake-Cloud_Data_Warehouse-lightblue?logo=snowflake) | ![Power BI](https://img.shields.io/badge/Power%20BI-Business_Intelligence-yellow?logo=powerbi) | ![Django](https://img.shields.io/badge/Django-Framework-darkgreen?logo=django) |
+| ![BigQuery](https://img.shields.io/badge/BigQuery-Google_Cloud-blue?logo=googlecloud) | ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?logo=streamlit) | ![FastAPI](https://img.shields.io/badge/FastAPI-APIs-teal?logo=fastapi) |
+| ![GCP](https://img.shields.io/badge/GCP-Cloud_Platform-orange?logo=googlecloud) | ![Plotly](https://img.shields.io/badge/Plotly-Interactive_Plots-lightgrey?logo=plotly) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-blue?logo=githubactions) |
+| ![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker) |                                | ![Git](https://img.shields.io/badge/Git-Version_Control-orange?logo=git) |
 
 ---
 
