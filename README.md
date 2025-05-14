@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
----
+
 
 
 ## 🗣️ Introduction
@@ -27,7 +27,7 @@ Hi, I'm Guillermo Durántez — a Data Scientist with over four years of experie
 I'm a curious and detail-oriented developer passionate about solving real-world problems through data, code, and visual design. I enjoy building smart applications, experimenting with new tools, and turning ideas into working solutions.
 
 - 🎓 MSc in Geomatics Engineering – University of Córdoba  
-- 🎓 MSc in Data Science – Universidad de Nebrija  
+- 🎓 MSc in Data Science – University of Nebrija  
 - 🛰️ 4+ years of experience in Agro-Tech, Space-Tech, and Finance-Tech industries  
 - 💼 Professional experience across roles such as Data Scientist, Business Analyst, GIS Specialist, and ML Engineer  
 - 🛠️ Core stack: `Python`, `SQL`, `R`, `Power BI`, `Snowflake`, `BigQuery`, `GEE`, `QGIS`
@@ -45,27 +45,60 @@ I'm a curious and detail-oriented developer passionate about solving real-world 
 
 ## 🧰 Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![R](https://img.shields.io/badge/R-Data_Analysis-blue?logo=r)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-informational?logo=postgresql)
-![Power BI](https://img.shields.io/badge/Power%20BI-Business_Intelligence-yellow?logo=powerbi)
-![Google Earth Engine](https://img.shields.io/badge/GEE-Remote_Sensing-green?logo=google)
-![Snowflake](https://img.shields.io/badge/Snowflake-Cloud_Data_Warehouse-lightblue?logo=snowflake)
-![BigQuery](https://img.shields.io/badge/BigQuery-Google_Cloud-blue?logo=googlecloud)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikitlearn)
-![QGIS](https://img.shields.io/badge/QGIS-Open_Source_GIS-green?logo=qgis)
+### 🐍 Programación & Análisis  
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
+![R](https://img.shields.io/badge/R-Data_Analysis-blue?logo=r)  
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-informational?logo=postgresql)  
+![Bash](https://img.shields.io/badge/Bash-Scripting-informational?logo=gnubash)  
+
+### 📊 Ciencia de Datos & Machine Learning  
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-black?logo=pandas)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikit-learn)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep_Learning-orange?logo=tensorflow)  
+![Keras](https://img.shields.io/badge/Keras-Neural_Networks-red?logo=keras)  
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient_Boosting-critical?logo=xgboost)  
+![LightGBM](https://img.shields.io/badge/LightGBM-Gradient_Boosting-success?logo=lightgbm)  
+![Prophet](https://img.shields.io/badge/Prophet-Time_Series-blueviolet?logo=meta)  
+
+### 🛰️ Geospatial & Remote Sensing  
+![Google Earth Engine](https://img.shields.io/badge/GEE-Remote_Sensing-green?logo=google)  
+![QGIS](https://img.shields.io/badge/QGIS-Open_Source_GIS-green?logo=qgis)  
+![GDAL](https://img.shields.io/badge/GDAL-Geospatial_Tools-darkgreen?logo=gdal)  
+![Leaflet](https://img.shields.io/badge/Leaflet-Maps-informational?logo=leaflet)  
+![GeoPandas](https://img.shields.io/badge/GeoPandas-Geospatial_Analysis-blue?logo=geopandas)  
+
+### 📦 Data Warehousing & Cloud  
+![Snowflake](https://img.shields.io/badge/Snowflake-Cloud_Data_Warehouse-lightblue?logo=snowflake)  
+![BigQuery](https://img.shields.io/badge/BigQuery-Google_Cloud-blue?logo=googlecloud)  
+![GCP](https://img.shields.io/badge/GCP-Cloud_Platform-orange?logo=googlecloud)  
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)  
+
+### 📈 Visualización & BI  
+![Power BI](https://img.shields.io/badge/Power%20BI-Business_Intelligence-yellow?logo=powerbi)  
+![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?logo=streamlit)  
+![Plotly](https://img.shields.io/badge/Plotly-Interactive_Plots-lightgrey?logo=plotly)  
+
+### 🌐 Backend & DevOps  
+![Django](https://img.shields.io/badge/Django-Framework-darkgreen?logo=django)  
+![FastAPI](https://img.shields.io/badge/FastAPI-APIs-teal?logo=fastapi)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-blue?logo=githubactions)  
+![Git](https://img.shields.io/badge/Git-Version_Control-orange?logo=git)  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ```
-💻   Python | JavaScript | HTML | CSS | R | SQL  
-🗺️   Leaflet | GeoPandas | GDAL | Google Earth Engine  
-🧠   Pandas | Scikit-learn | TensorFlow | Streamlit  
-🌐   Django | Node.js | REST APIs | Git  
-🗄️   PostgreSQL | MySQL | MongoDB  
-📦   Docker | GitHub Actions | CI/CD  
+💻   Python | R | JavaScript | HTML | CSS | SQL | Bash  
+📊   Pandas | NumPy | Scikit-learn | XGBoost | LightGBM | Statsmodels  
+🧠   TensorFlow | Keras | PyTorch | Prophet | SARIMA | OpenCV  
+📈   Streamlit | Dash | Plotly | Matplotlib | Seaborn | Power BI  
+🗺️   GeoPandas | Leaflet | GDAL | Rasterio | Shapely | Google Earth Engine | QGIS  
+🌐   Django | FastAPI | Node.js | REST APIs | Git | GitHub Actions  
+🗄️   PostgreSQL | PostGIS | MySQL | SQLite | MongoDB | BigQuery | Snowflake  
+☁️   Google Cloud Platform | AWS | Docker | CI/CD   
+🔍   BeautifulSoup | Scrapy | Selenium | spaCy 
+
 ```
 ---
 
