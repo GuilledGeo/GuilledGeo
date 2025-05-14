@@ -41,7 +41,7 @@ I'm a curious and detail-oriented developer passionate about solving real-world 
 ## 🌐 Portfolio
 
 Check out my work:  
-🔗 [guilledgeo.com](https://guilledgeo.com)
+🔗 [guilledgeo portfolio]([https://guilledgeo.com](https://github.com/GuilledGeo/portfolio))
 
 ---
 
