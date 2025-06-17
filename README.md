@@ -87,7 +87,7 @@ I'm a curious and detail-oriented developer passionate about solving real-world 
 
 | Category              | Project                                                                                     | Description                                                                                   |
 |-----------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 📊 Data Analysis      | [Retail Sales Insights](https://github.com/guillermodurantez/retail-sales-insights)        | Exploratory analysis and visualization of retail data: segmentation, seasonality, KPIs.      |
+| 📊 Data Analysis      | [Retail Sales Insights](https://github.com/GuilledGeo/retail-sales-insights)        | Exploratory analysis and visualization of retail data: segmentation, seasonality, KPIs.      |
 | 📉 Business Analytics | [Churn Prediction](https://github.com/GuilledGeo/churn-prediction)                  | Supervised classification model to predict customer churn with multivariate analysis.        |
 | 🛰️ Remote Sensing     | [Agricultural NDVI Monitoring](https://github.com/guillermodurantez/ndvi-monitorizacion-agricola) | Sentinel-2 time-series NDVI analysis to monitor vegetation health in agricultural areas.     |
 | 🔬 Machine Learning   | [Loan Default Prediction](https://github.com/guillermodurantez/morosidad-modelo)           | Credit risk modeling using decision trees and cross-validation techniques.                   |
